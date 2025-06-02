@@ -1,6 +1,3 @@
-Here is your updated `README.md` content with all the stars (★/⭐/🌟/✨/📱 etc.) removed for a cleaner, professional look:
-
----
 
 # Faculty Manager
 
@@ -139,6 +136,3 @@ If you encounter any issues or have questions:
 
 Created with love using Flutter
 
----
-
-Let me know if you'd like a version with minimal icons or tailored for a specific platform like GitHub, GitLab, or Bitbucket.
